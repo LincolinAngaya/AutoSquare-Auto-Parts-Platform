@@ -25,12 +25,14 @@ AutoSquare is a user-friendly web platform designed to help customers find relia
 
 ---
 
-## 🛠 **Tech Stack**  
-- **Frontend**: HTML, CSS, JavaScript (React.js)  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **Version Control**: Git  
-- **Deployment**: Deployed on [Platform Name]  
+🛠️ Technologies Used
+Frontend: Next.js, React.js, Tailwind CSS
+Backend: Node.js (API integration)
+Database: MongoDB (or insert relevant database)
+Authentication: JWT (or other mechanisms, e.g., OAuth)
+Styling: Tailwind CSS and CSS Modules
+Hosting: Vercel (or insert hosting platform)
+
 
 ---
 
