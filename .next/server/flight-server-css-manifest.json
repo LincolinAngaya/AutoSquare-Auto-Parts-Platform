@@ -1,0 +1,30 @@
+{
+  "cssImports": {
+    "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\layout.tsx": [
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}",
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\globals.css"
+    ]
+  },
+  "cssModules": {
+    "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\page": [
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\globals.css",
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\used-transmissions\\page": [
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\globals.css",
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\[make]\\page": [
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\globals.css",
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\used-engines\\page": [
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\globals.css",
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ],
+    "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\used-auto-parts\\page": [
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\app\\globals.css",
+      "C:\\Users\\LINCOLN ANGAYA\\Desktop\\autopart\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}"
+    ]
+  }
+}
